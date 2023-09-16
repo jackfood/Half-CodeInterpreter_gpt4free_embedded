@@ -28,6 +28,8 @@ To get started, follow these steps:
 Follow the on-screen instructions. You can enter text input, and the AI will respond accordingly. It can also auto execute Python code by including it within triple backticks or (python) and (). The Python code will be executed, and the result will be displayed.
 
 ## Important Notes
+Do note that the stability depends on the free provider from ##gtp4free.
+
 To exit the chat engine, type 'exit' when prompted for input.
 
 Extracted Python code blocks are saved in aipythonanswer.txt and utf8.txt. pip.txt contains any extracted pip install package names.
