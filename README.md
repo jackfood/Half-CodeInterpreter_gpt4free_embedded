@@ -15,11 +15,12 @@ Clone or download this repository and put it in your Python directory.
 
 Run the following command:
 
-```bash
-python ~start.py
+   ```bash
+   python ~start.py
 
-Integration
+
+## Integration
 The main goal of this project is to integrate the Half-codeInterpreter into the gpt4free generative AI. Work is in progress to combine the capabilities of both projects for enhanced functionality.
 
-Contributing
+## Contributing
 We welcome contributions! If you want to contribute to this project, please follow our contribution guidelines.
