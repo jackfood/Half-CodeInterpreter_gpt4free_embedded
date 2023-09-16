@@ -1,4 +1,4 @@
-# Half-CodeInterpreter_gpt4free_embedded (This is an imcomplete project as of now)
+# Half-CodeInterpreter_gpt4free_embedded
 
 This project aims to integrate the [Half-codeInterpreter](https://github.com/jackfood/Half-codeInterpreter) into the free generative AI provided by [gpt4free](https://github.com/xtekky/gpt4free).
 
