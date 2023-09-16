@@ -28,7 +28,7 @@ To get started, follow these steps:
 Follow the on-screen instructions. You can enter text input, and the AI will respond accordingly. It can also auto execute Python code by including it within triple backticks or (python) and (). The Python code will be executed, and the result will be displayed.
 
 ## Important Notes
-Do note that the stability depends on the free provider from ##gtp4free.
+Do note that the stability depends on the free provider from [gpt4free](https://github.com/xtekky/gpt4free).
 
 To exit the chat engine, type 'exit' when prompted for input.
 
