@@ -8,19 +8,18 @@ To get started, follow these steps:
 
 1. Visit the [gpt4free](https://github.com/xtekky/gpt4free) GitHub repository and install the PyPI package in your Python environment:
 
-   ```bash
-   pip install -U g4f
-   
-Clone or download this repository and put it in your Python directory.
+   - pip install -U g4f
 
-Run the following command:
+2. Clone or download this repository and put it in your Python directory.
 
-   ```bash
-   python ~start.py
-   ```
+3. Run the following command:
+
+   - python ~start.py
 
 ## Integration
+
 The main goal of this project is to integrate the Half-codeInterpreter into the gpt4free generative AI. Work is in progress to combine the capabilities of both projects for enhanced functionality.
 
 ## Contributing
+
 We welcome contributions! If you want to contribute to this project, please follow our contribution guidelines.
