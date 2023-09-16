@@ -14,6 +14,8 @@ To get started, follow these steps:
 Clone or download this repository and put it in your Python directory.
 
 Run the following command:
+
+```bash
 python ~start.py
 
 Integration
