@@ -19,7 +19,7 @@ To get started, follow these steps:
 
    - pip install -U g4f
 
-2. Clone or download this repository and put it in your Python directory.
+2. Clone or download this repository and put it in the same g4f Python directory.
 
 3. Run the following command:
 
